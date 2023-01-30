@@ -1,5 +1,5 @@
 # i18n-react
-set up i18n + react + vite
+setup i18n + react + vite
 
 # Vite installation
 
@@ -16,9 +16,9 @@ https://react.i18next.com/getting-started
 
 1) npm install react-i18next i18next --save
 2) npm install i18next-http-backend i18next-browser-languagedetector --save
-3) create a i18n.js file on the src
-4) import your file i18n.js in the app page
+3) create a i18n.js file on the src with implementation that is in this file
+4) import your i18n.js file in the app page with implementation that is in this file
 5) create a folder locales with folders pt and en with file translation.json 
-6) create a page login.tsx
+6) create a page login.tsx with implementation that is in this file
 7) installation react router dom : npm i react-router-dom
 8) pass the router /login in the app.tsx page
